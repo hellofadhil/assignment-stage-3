@@ -1,0 +1,394 @@
+[
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317867,
+        "longitude": 106.918373,
+        "timestamp": {
+            "$date": "2025-04-07T14:25:03.276Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317867,
+        "longitude": 106.918373,
+        "timestamp": {
+            "$date": "2025-04-07T14:25:03.276Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317784,
+        "longitude": 106.918114,
+        "timestamp": {
+            "$date": "2025-04-08T08:54:13.232Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317784,
+        "longitude": 106.918114,
+        "timestamp": {
+            "$date": "2025-04-08T08:54:13.232Z"
+        }
+    },
+    {
+        "jumlah_orang": 0,
+        "latitude": -6.317862,
+        "longitude": 106.918167,
+        "timestamp": {
+            "$date": "2025-04-08T08:54:38.190Z"
+        }
+    },
+    {
+        "jumlah_orang": 0,
+        "latitude": -6.317862,
+        "longitude": 106.918167,
+        "timestamp": {
+            "$date": "2025-04-08T08:54:38.190Z"
+        }
+    },
+    {
+        "jumlah_orang": 0,
+        "latitude": -6.317927,
+        "longitude": 106.918198,
+        "timestamp": {
+            "$date": "2025-04-08T08:56:19.787Z"
+        }
+    },
+    {
+        "jumlah_orang": 0,
+        "latitude": -6.317927,
+        "longitude": 106.918198,
+        "timestamp": {
+            "$date": "2025-04-08T08:56:19.787Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317917,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-08T08:56:34.801Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317917,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-08T08:56:34.801Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317852,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-08T08:57:47.165Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317815,
+        "longitude": 106.918198,
+        "timestamp": {
+            "$date": "2025-04-08T08:58:20.823Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317815,
+        "longitude": 106.918198,
+        "timestamp": {
+            "$date": "2025-04-08T08:58:20.823Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.31771,
+        "longitude": 106.916664,
+        "timestamp": {
+            "$date": "2025-04-08T08:58:41.599Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.31771,
+        "longitude": 106.916664,
+        "timestamp": {
+            "$date": "2025-04-08T08:58:41.599Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317732,
+        "longitude": 106.918129,
+        "timestamp": {
+            "$date": "2025-04-08T08:58:49.039Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317732,
+        "longitude": 106.918129,
+        "timestamp": {
+            "$date": "2025-04-08T08:58:49.039Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317809,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-08T08:59:32.307Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317809,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-08T08:59:32.307Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317808,
+        "longitude": 106.316666,
+        "timestamp": {
+            "$date": "2025-04-08T09:00:55.791Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317808,
+        "longitude": 106.316666,
+        "timestamp": {
+            "$date": "2025-04-08T09:00:55.791Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317872,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-08T09:06:45.540Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317872,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-08T09:06:45.540Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317822,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-08T09:07:28.368Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317822,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-08T09:07:28.368Z"
+        }
+    },
+    {
+        "jumlah_orang": 2,
+        "latitude": -6.317814,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-08T09:07:55.109Z"
+        }
+    },
+    {
+        "jumlah_orang": 2,
+        "latitude": -6.317814,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-08T09:07:55.109Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317828,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-08T09:08:11.895Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317828,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-08T09:08:11.895Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317706,
+        "longitude": 106.918297,
+        "timestamp": {
+            "$date": "2025-04-13T11:58:19.851Z"
+        }
+    },
+    {
+        "jumlah_orang": 2,
+        "latitude": -6.317773,
+        "longitude": 106.918282,
+        "timestamp": {
+            "$date": "2025-04-13T11:58:48.411Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317696,
+        "longitude": 106.918114,
+        "timestamp": {
+            "$date": "2025-04-13T12:02:56.295Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317807,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-13T12:06:49.611Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317807,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-13T12:06:49.665Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317818,
+        "longitude": 106.918144,
+        "timestamp": {
+            "$date": "2025-04-13T12:07:00.354Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317818,
+        "longitude": 106.918144,
+        "timestamp": {
+            "$date": "2025-04-13T12:07:00.354Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317811,
+        "longitude": 106.918114,
+        "timestamp": {
+            "$date": "2025-04-13T12:07:10.800Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317811,
+        "longitude": 106.918114,
+        "timestamp": {
+            "$date": "2025-04-13T12:07:10.800Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.316772,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-13T12:08:37.115Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.316772,
+        "longitude": 106.918182,
+        "timestamp": {
+            "$date": "2025-04-13T12:08:37.125Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317792,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-13T12:15:42.374Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": 0.366667,
+        "longitude": 0.4,
+        "timestamp": {
+            "$date": "2025-04-13T12:18:05.255Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": 0.366667,
+        "longitude": 0.4,
+        "timestamp": {
+            "$date": "2025-04-13T12:18:05.252Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -7.566667,
+        "longitude": 106.918282,
+        "timestamp": {
+            "$date": "2025-04-13T12:20:53.497Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -7.566667,
+        "longitude": 106.918282,
+        "timestamp": {
+            "$date": "2025-04-13T12:20:53.497Z"
+        }
+    },
+    {
+        "jumlah_orang": 2,
+        "latitude": 1.516667,
+        "longitude": 0.183333,
+        "timestamp": {
+            "$date": "2025-04-13T12:21:50.758Z"
+        }
+    },
+    {
+        "jumlah_orang": 2,
+        "latitude": 1.516667,
+        "longitude": 0.183333,
+        "timestamp": {
+            "$date": "2025-04-13T12:21:50.758Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317727,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-13T12:25:29.172Z"
+        }
+    },
+    {
+        "jumlah_orang": 1,
+        "latitude": -6.317727,
+        "longitude": 106.918243,
+        "timestamp": {
+            "$date": "2025-04-13T12:25:29.172Z"
+        }
+    }
+]
